@@ -27,9 +27,14 @@ Anyone who is looking to train a model for binary—or two-class—classificatio
     * **Use Case:** Political campaigns track public opinion, identify key issues, and adjust their messaging.
   
 **NOTE**
-Before you execute the tracking url in notebook make sure to start the MLFLOW UI from command lime using the command below
+1)Before you execute the tracking url in notebook make sure to start the MLFLOW UI from command lime using the command below
 -> mlflow.set_tracking_uri("http://127.0.0.1:5000")
 
 ![image](https://github.com/user-attachments/assets/23ec696c-1836-4e14-addd-ca777103f8d8)
+
+2).See MLFLOW UI.docx for MLFLOW Expermentation screnshots
+
+
+
 
 
