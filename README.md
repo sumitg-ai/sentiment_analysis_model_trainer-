@@ -25,6 +25,11 @@ Anyone who is looking to train a model for binary—or two-class—classificatio
 4.  **Political Sentiment Analysis (Election Monitoring):**
     * **Application:** Analyzing social media posts, news articles, and political commentary to understand public sentiment towards political candidates or policies.
     * **Use Case:** Political campaigns track public opinion, identify key issues, and adjust their messaging.
+  
+**NOTE**
+Before you execute this code in notebook make sure to start the MLFLOW UI from command lime using the command below
+-> mlflow.set_tracking_uri("http://127.0.0.1:5000")
 
+![image](https://github.com/user-attachments/assets/23ec696c-1836-4e14-addd-ca777103f8d8)
 
 
