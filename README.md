@@ -1,12 +1,11 @@
 **Sentiment analysis**
-This notebook trains a sentiment analysis model to classify movie reviews as positive or negative, based on the text of the review. This is an example of binary—or two-class—classification, an important and widely applicable kind of machine learning problem.
+This notebook trains a sentiment analysis model to classify reviews as positive or negative, based on the text of the review. This is an example of binary—or two-class—classification, an important and widely applicable kind of machine learning problem.
 
-A Large Movie Review Dataset that contains the text of 50,000 movie reviews from the Internet Movie Database. These are split into 25,000 reviews for training and 25,000 reviews for testing. The training and testing sets are balanced, meaning they contain an equal number of positive and negative reviews.
-This notebook trains a sentiment analysis model to classify movie reviews as positive or negative, based on the text of the review. Addtionally , MLFLOW has been implemented in the notebook for model experimentaion.
+A Large Movie Review Dataset that contains the text of 50,000 movie reviews from the Internet Movie Database is used in notebook to train the model. These are split into 25,000 reviews for training and 25,000 reviews for testing. The training and testing sets are balanced, meaning they contain an equal number of positive and negative reviews.This notebook trains a sentiment analysis model to classify movie reviews as positive or negative, based on the text of the review. Addtionally , MLFLOW has been implemented in the notebook for model experimentation.
 
 
 **Usecase:**
-Anyone who is looking to train a model for binary—or two-class—classification(positive or negative) can use this notebook to train the model and perform the model experimentation with MLFLOW which is integrated into this notebook.
+Anyone who is looking to train a model for binary( or two-class—classification(positive or negative) )  can use this notebook to train the model and perform the model experimentation with MLFLOW which is integrated into this notebook.
 
 **Some real world Usecases which you can use your trained model for**
 
