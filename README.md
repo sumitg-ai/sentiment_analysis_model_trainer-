@@ -6,9 +6,9 @@ This notebook trains a sentiment analysis model to classify movie reviews as pos
 
 
 **Usecase:**
-Anyone who is looking to train a model for binary—or two-class—classification can use this notebook to train the model and perform the experiment with MLFLOW which is integrated into this nitebook.
+Anyone who is looking to train a model for binary—or two-class—classification(positive or negative) can use this notebook to train the model and perform the model experimentation with MLFLOW which is integrated into this notebook.
 
-**Some real world Usecases**
+**Some real world Usecases which you can use your trained model for**
 
 1.  **Product Reviews (Beyond Movies):**
     * **Application:** Identifying whether customer reviews for products (electronics, books, appliances, etc.) are positive or negative.
